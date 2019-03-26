@@ -1,3 +1,6 @@
+//Adding a line to import google font in CSS (vs HTML like I had done the first time)
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
 $colors: (
     primary: #005dff,
     /*lighten() is a built in CSS function to referencially change colors by a specified % */
